@@ -1,0 +1,517 @@
+#EXTINF#
+
+
+#EXTINF:-1,SBT SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
+#EXTINF:-1,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1,SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+#EXTINF:-1,SBT RJ SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
+#EXTINF:-1,BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:-1,RECORD RJ HD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
+#EXTINF:-1,RECORD RJ SD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b832512.m3u8?sts=st=1560978199~exp=1560984799~acl=/*~hmac=e94f4eb9e032adbd4f751e207c593e6e89b2db93770b64077854f7374e5938e3
+#EXTINF:-1,RECORD SP
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1,REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
+#EXTINF:-1,REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1,MEGAPIX
+http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
+#EXTINF:-1, AMC
+http://hvod.imirun.net:8080/AMC-HD/index.m3u8
+#EXTINF:-1,AMC
+http://playback.imirun.net:8080//AMC-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ESPN
+http://hvod.imirun.net:8080/ESPN/index.m3u8
+#EXTINF:-1,GNT
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MEGA PIX
+http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8
+#EXTINF:-1,OFF
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RECORD NEWS
+http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
+#EXTINF:-1,TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TBS
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1, Tv Boa Esperanca
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+#EXTINF:-1, Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+XTINF:-1,Brahman Naman
+https://goo.gl/CqMv6W
+#EXTINF:-1,O Clã
+https://goo.gl/zrCf8K
+#EXTINF:-1,Pânico na Escola
+https://goo.gl/1anAWX
+#EXTINF:-1,Regras Não Se Aplicam
+https://goo.gl/w5BMPw
+#EXTINF:-1,Peles 2017
+https://goo.gl/GLEHe1
+#EXTINF:-1, CARGO
+http://topfilmesapp.hyperion.feralhosting.com/2018/CARGODUB.mp4
+#EXTINF:-1, SOMBRA ARDENTE
+http://topfilmesapp.hyperion.feralhosting.com/2018/SOMBRAARDENTEHDDUB.mp4
+#EXTINF:-1, TRIBU URBANA DANCE
+http://topfilmesapp.hyperion.feralhosting.com/2018/tribu-urbana.mp4
+#EXTINF:-1, GOOSEBUMPS 2: HALLOWEEN ASSOMBRADO
+http://topfilmesapp.hyperion.feralhosting.com/2018/GOOSEBUMPS2HDDUB.mp4
+#EXTINF:-1, DOMÍNIOS ESCUROS
+http://topfilmesapp.hyperion.feralhosting.com/2018/DOMINIOSESCUROSHDDUB.mp4
+#EXTINF:-1,A Cinco Passos de voce
+http://thor.lhmtv.gq/filmes/acincopassosdevoce-dub-720p.mp4?LHMTv
+#EXTINF:-1,Cinderela Pop
+http://thor.lhmtv.gq/filmes/cinderelapop-dub-720p.mp4
+#EXTINF:-1,A Maldicao da Chorona
+http://thor.lhmtv.gq/filmes/amaldicaodachoronats-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Parque dos Sonhos
+http://thor.lhmtv.gq/filmes/oparquedossonhosts-dub-720p.mp4?LHMTv
+#EXTINF:-1,John Wick 3 â€“ Parabellum
+http://thor.lhmtv.gq/filmes/johnwick3ts-dub-720p.mp4?LHMTv
+#EXTINF:-1,Pokemon: Detetive Pikachu
+http://thor.lhmtv.gq/filmes/detetivepikachu-dub-360p.mp4?LHMTv
+#EXTINF:-1,Cemiterio Maldito
+http://thor.lhmtv.gq/filmes/cemiteriomalditots-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Soldado de Cristo
+http://thor.lhmtv.gq/filmes/osoldadodecristo-dub-720p.mp4?LHMTv
+#EXTINF:-1,Capita Marvel
+http://thor.lhmtv.gq/filmes/cptmarvel-dub-hdts.mp4?LHMTv
+#EXTINF:-1,Operacao Fronteira
+http://thor.lhmtv.gq/filmes/operacaofronteira-dub-720p.mp4?LHMTv
+#EXTINF:-1,10 Segundos para Vencer
+http://thor.lhmtv.gq/filmes/10segundosparavencer-dub-720p.mp4?LHMTv
+#EXTINF:-1,Alita: Anjo de Combate
+http://thor.lhmtv.gq/filmes/alitaanjocombate-dub-720p.mp4?LHMTv
+#EXTINF:-1,A Caminho de Casa
+http://thor.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1,Poderia Me Perdoar?
+http://thor.lhmtv.gq/filmes/poderiameperdoar-dub-720p.mp4?LHMTv
+#EXTINF:-1,Green Book â€“ O Guia
+http://thor.lhmtv.gq/filmes/greenbook-dub-720p.mp4?LHMTv
+#EXTINF:-1,1964: O Brasil Entre Armas e Livros
+http://thor.lhmtv.gq/filmes/1964ofilme-dub-720p.mp4?LHMTv
+#EXTINF:-1, MUsica e Amor
+http://thor.lhmtv.gq/filmes/sexomusicaeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1,Justica â€“ Entre a Lei e a Vinganca
+http://thor.lhmtv.gq/filmes/justicaentrealeieavinganca-dub-720p.mp4?LHMTv
+#EXTINF:-1,Tudo Acaba Em Festa
+http://thor.lhmtv.gq/filmes/tudoacabaemfesta-dub-720p.mp4?LHMTv
+#EXTINF:-1,Durante a Tormenta
+http://thor.lhmtv.gq/filmes/duranteatormenta-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Holmes & Watson
+http://thor.lhmtv.gq/filmes/holmesewatson-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Retorno de Mary Poppins
+http://thor.lhmtv.gq/filmes/themarypoppinsreturn-dub-720p.mp4?LHMTv
+#EXTINF:-1,A Quimica do Amor
+http://thor.lhmtv.gq/filmes/aquimicadoamor-dub-720p.mp4?LHMTv
+#EXTINF:-1,Durante a Tormenta
+http://thor.lhmtv.gq/filmes/duranteatormenta-dub-720p.mp4?LHMTv
+#EXTINF:-1,A Caminho de Casa
+http://thor.lhmtv.gq/filmes/acaminhodecasa-dub-720p.mp4?LHMTv
+#EXTINF:-1,Minha Vida em Marte
+http://thor.lhmtv.gq/filmes/minhavidaemmartei-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Menino que Descobriu o Vento
+http://thor.lhmtv.gq/filmes/omeninoquedescobriuovento-dub-720p.mp4?LHMTv
+#EXTINF:-1,Maquinas Mortais
+http://thor.lhmtv.gq/filmes/corridasmortais-dub-720p.mp4?LHMTv
+#EXTINF:-1,Bumblebee
+http://thor.lhmtv.gq/filmes/buumblebee-dub-720p.mp4?LHMTv
+#EXTINF:-1,Homem Aranha: No Aranhaverso
+http://thor.lhmtv.gq/filmes/aranhaverso-dub-720p.mp4?LHMTv
+#EXTINF:-1,Parque do Inferno
+http://thor.lhmtv.gq/filmes/parquedoinferno-dub-720p.mp4?LHMTv
+#EXTINF:-1,Mulheres Alteradas
+http://thor.lhmtv.gq/filmes/mulheresalteradas-dub-720p.mp4?LHMTv
+#EXTINF:-1,Aquaman
+http://thor.lhmtv.gq/filmes/aquamanhd-dub-720p.mp4?LHMTv
+#EXTINF:-1,WiFi Ralph: Quebrando a Internet
+http://thor.lhmtv.gq/filmes/wifiralphh-dub-720p.mp4?LHMTv
+#EXTINF:-1,Cadaver
+http://thor.lhmtv.gq/filmes/ocadaver-dub-720p.mp4?LHMTv
+#EXTINF:-1,Sequestro Relampago
+http://thor.lhmtv.gq/filmes/sequestrorelampago-dub-720p.mp4?LHMTv
+#EXTINF:-1,Animais Fantasticos: Os Crimes de Grindelwald
+http://thor.lhmtv.gq/filmes/animaisfantasticoscrimesgrindelwald-dub-1080p.mp4?LHMTv
+#EXTINF:-1,O Primeiro Homem
+http://thor.lhmtv.gq/filmes/oprimeirohomem-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Paradoxo Cloverfield
+http://thor.lhmtv.gq/filmes/thecloverfieldparadox-dub-720p.mp4?LHMTv
+#EXTINF:-1,Intimidade Entre Estranhos
+http://thor.lhmtv.gq/filmes/intimidadeentreestranhos-dub-720p.mp4?LHMTv
+#EXTINF:-1,Creed 2
+http://thor.lhmtv.gq/filmes/creed2-dub-720p.mp4?LHMTv
+#EXTINF:-1,Furia em Alto Mar
+http://thor.lhmtv.gq/filmes/furiaemaltomar-dub-720p.mp4?LHMTv
+#EXTINF:-1,Podres de Ricos
+http://thor.lhmtv.gq/filmes/podresdericos-dub-720p.mp4?LHMTv
+#EXTINF:-1,Circus Kane â€“ O Circo dos Horrores
+http://thor.lhmtv.gq/filmes//circuskaneocircodoshorrores-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Grande Circo MÃ­stico
+http://thor.lhmtv.gq/filmes/ograndecircomistico-dub-720p.mp4?LHMTv
+#EXTINF:-1,A Casa do Medo â€“ Incidente em Ghostland
+http://thor.lhmtv.gq/filmes/acasadomedoincedenteemghostland-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Grinch
+http://thor.lhmtv.gq/filmes/ogrinch-dub-720p.mp4?LHMTv
+#EXTINF:-1,A Morte do Superman
+http://thor.lhmtv.gq/filmes/thedeathofsuperman-dub-720p.mp4?LHMTv
+#EXTINF:-1,Bohemian Rhapsody
+http://thor.lhmtv.gq/filmes/bohemianrhapsody-dub-720p.mp4?LHMTv
+#EXTINF:-1,Amigos Alienigenas
+http://thor.lhmtv.gq/filmes/amigosalienigenas-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Resgate no Oeste
+http://thor.lhmtv.gq/filmes/resgatenooeste-dub-1080p.mp4?LHMTv
+#EXTINF:-1,O Legado Kennedy
+http://thor.lhmtv.gq/filmes/olegadokennedy-dub-720p.mp4?LHMTv
+#EXTINF:-1,Os Domesticos
+http://thor.lhmtv.gq/filmes/osdomesticos-dub-720p.mp4?LHMTv
+#EXTINF:-1,Johnny English 3.0
+http://thor.lhmtv.gq/filmes/johnnyenglishstrikesagain-dub-720p.mp4?LHMTv
+#EXTINF:-1,Encolhi a Professora
+http://thor.lhmtv.gq/filmes/encolhiaprofessora-dub-720p.mp4?LHMTv
+#EXTINF:-1,Maus Momentos no Hotel Royale
+http://thor.lhmtv.gq/filmes/mausmomentosnohotelroyale-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Doutrinador
+http://thor.lhmtv.gq/filmes/odoutrinador-dub-720p.mp4?LHMTv
+#EXTINF:-1,Goosebumps 2 â€“ Halloween Assombrado
+http://thor.lhmtv.gq/filmes/goosegumps2halloween-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Bem-Aventurado
+http://thor.lhmtv.gq/filmes/obemaventurado-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Pelo Direito de Ser Feliz
+http://thor.lhmtv.gq/filmes/pelodireitodeserfeliz-dub-720p.mp4?LHMTv
+#EXTINF:-1,Bird Box â€“ Caixa de Passaros
+http://thor.lhmtv.gq/filmes/birdbox-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Sansao â€“ 2018
+http://thor.lhmtv.gq/filmes/sansao2018-dub-720p.mp4?LHMTv
+#EXTINF:-1,Arcade â€“ Voce vai entrar nesse jogo
+http://thor.lhmtv.gq/filmes/arcadevocevaientrarnessejogo-dub-720p.mp4?LHMTv
+#EXTINF:-1,Talvez uma Historia de Amor
+http://thor.lhmtv.gq/filmes/talvezumahistoriadeamor-dub-720p.mp4?LHMTv
+#EXTINF:-1,O Candidato Honesto 2
+http://thor.lhmtv.gq/filmes/ocandidatohonesto2-dub-720p.mp4?LHMTv
+#EXTINF:-1,PePequeno
+http://thor.lhmtv.gq/filmes/pepequeno-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Venom
+http://thor.lhmtv.gq/filmes/venom-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Meu Ex e um Espiao
+http://thor.lhmtv.gq/filmes/meuexeumespiao-dub-720p.mp4?LHMTv
+#EXTINF:-1,Para Todos os Garotos que Ja Amei
+http://thor.lhmtv.gq/filmes/paratodososgarotosqueamei-dub-1080p.mp4?LHMTv
+#EXTINF:-1,O Predador
+http://thor.lhmtv.gq/filmes/opredador2018-dub-720p.mp4?LHMTv
+#EXTINF:-1,Missao ImpossÃ­vel â€“ Efeito Fallout
+http://thor.lhmtv.gq/filmes/missaoimpossivelefeitofallout-dub-1080p.mp4?LHMTv
+#EXTINF:-1,A Freira
+http://thor.lhmtv.gq/filmes/afreiranovohd-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Para Sempre Minha Garota
+http://thor.lhmtv.gq/filmes/parasempreminhagarota-dub-720p.mp4?LHMTv
+#EXTINF:-1,Os Incriveis 2
+http://thor.lhmtv.gq/filmes/osincriveis2new-dub-720p.mp4?LHMTv
+#EXTINF:-1,Slender Man: Pesadelo Sem Rosto
+http://thor.lhmtv.gq/filmes/slenderman-dub-720p.mp4?LHMTv
+#EXTINF:-1,Apostolo
+http://thor.lhmtv.gq/filmes/apostolo-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Constantine: Cidade dos Demonios
+http://thor.lhmtv.gq/filmes/constantinecidadedemonio-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Hotel Transilvania 3: Ferias Monstruosas
+http://thor.lhmtv.gq/filmes/hoteltransilvania3-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Todo Dia
+http://thor.lhmtv.gq/filmes/tododia-dub-720p.mp4?LHMTv
+#EXTINF:-1,DC Super Hero Girls: Lendas de Atlantida
+http://thor.lhmtv.gq/filmes/dcsuperheroeslendasdeatlantida-dub-720p.mp4?LHMTv
+#EXTINF:-1,Tem AlienÃ­genas no Meu Quarto
+http://thor.lhmtv.gq/filmes/temalienigenasnomeuquarto-dub-720p.mp4?LHMTv
+#EXTINF:-1,Bleach â€“ Filme
+http://thor.lhmtv.gq/filmes/bleachmovie-dub-720p.mp4?LHMTv
+#EXTINF:-1,Homem-Formiga e a Vespa
+http://thor.lhmtv.gq/filmes/homemformigaevespa-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Fahrenheit 451
+http://thor.lhmtv.gq/filmes/fahrenheit451-dub-720p.mp4?LHMTv
+#EXTINF:-1,A Noite Devorou o Mundo
+http://thor.lhmtv.gq/filmes/thenightseatstheworld-dub-720p.mp4?LHMTv
+#EXTINF:-1,Thor
+http://thor.lhmtv.gq/filmes/thor-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Thor: O Mundo Sombrio
+http://thor.lhmtv.gq/filmes/thormundosombrio-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Thor: Ragnarok
+http://thor.lhmtv.gq/filmes/thorrag-dub-1080p.mp4?LHMTv
+#EXTINF:-1,Festa da Salsicha
+http://thor.lhmtv.gq/filmes/festasalsicha-dub-720p.mp4?LHMTv
+#EXTINF:-1,Cinquenta Tons Mais Escuros SRv1
+http://thor.lhmtv.gq/filmes/50tonsescuros-dub-720p.mp4?LHMTv
+#EXTINF:-1,Cinquenta Tons de Liberdade
+http://thor.lhmtv.gq/filmes/fiftyshadesfreed-dub-720p.mp4?LHMTv
+#EXTINF:-1, Patrick O Despertar do Mal
+http://thor.lhmtv.gq/bonus/3KDHeB
+#EXTINF:-1, Contagio
+http://thor.lhmtv.gq/bonus/M6FE6E
+#EXTINF:-1, Operacao Sombra
+http://thor.lhmtv.gq/bonus/tA3eys
+#EXTINF:-1, A Garota Dinamarquesa
+http://thor.lhmtv.gq/bonus/ra8xGC
+#EXTINF:-1, O Grande Mestre 3
+http://thor.lhmtv.gq/bonus/q55i4N
+#EXTINF:-1, O Misterio de Stella
+http://thor.lhmtv.gq/bonus/bnPmHf
+#EXTINF:-1, Uma Paixao
+http://thor.lhmtv.gq/bonus/eBRyYB
+#EXTINF:-1, A Piramide
+http://thor.lhmtv.gq/bonus/dsvh79
+#EXTINF:-1, Special Correspondents
+http://thor.lhmtv.gq/bonus/7M3KnJ
+#EXTINF:-1, Navy Seals vs. Zombies
+http://thor.lhmtv.gq/bonus/Zbssco
+#EXTINF:-1, Eu Sou a Furia
+http://thor.lhmtv.gq/bonus/cy7D4X
+#EXTINF:-1, O Melhor Amigo da Noiva
+http://thor.lhmtv.gq/bonus/DDJTEW
+#EXTINF:-1, Sherlock Holmes
+http://thor.lhmtv.gq/bonus/d6VyE9
+#EXTINF:-1, Pressagios de Um Crime
+http://thor.lhmtv.gq/bonus/tEHVf2
+#EXTINF:-1, Conspiracao e Poder
+http://thor.lhmtv.gq/bonus/AcV4bL
+#EXTINF:-1, Ma Conduta
+http://thor.lhmtv.gq/bonus/3dSDL2
+#EXTINF:-1, A Beira Mar
+http://thor.lhmtv.gq/bonus/UthQo8
+#EXTINF:-1, Ilha dos Dinossauros
+http://thor.lhmtv.gq/bonus/sthrTt
+#EXTINF:-1, Destino Especial
+http://thor.lhmtv.gq/bonus/hJa9nn
+#EXTINF:-1, Troia Versao do Diretor
+http://thor.lhmtv.gq/bonus/5SEHSt
+#EXTINF:-1, Doce Vinganca
+http://thor.lhmtv.gq/bonus/eZBazB
+#EXTINF:-1, Capitao America 2
+http://thor.lhmtv.gq/bonus/hKaeBd
+#EXTINF:-1, Cloverfield: Monstro
+http://thor.lhmtv.gq/bonus/aEJndC
+#EXTINF:-1, Brahman Naman
+http://thor.lhmtv.gq/bonus/CqMv6W
+#EXTINF:-1, Confirmacao
+http://thor.lhmtv.gq/bonus/Q3nko9
+#EXTINF:-1, Keanu
+http://thor.lhmtv.gq/bonus/naD3qD
+#EXTINF:-1, Enfurecidos
+http://thor.lhmtv.gq/bonus/PwHm3G
+#EXTINF:-1, O Cla
+http://thor.lhmtv.gq/bonus/zrCf8K
+#EXTINF:-1, Panico na Escola
+http://thor.lhmtv.gq/bonus/1anAWX
+#EXTINF:-1, Precoce
+http://thor.lhmtv.gq/bonus/Gsaoxp
+#EXTINF:-1, O Matadouro
+http://thor.lhmtv.gq/bonus/FPhGMf
+#EXTINF:-1, Um Agente Fora de Serie
+http://thor.lhmtv.gq/bonus/f38dr2
+#EXTINF:-1, Conexao Escobar
+http://thor.lhmtv.gq/bonus/UrJ42N
+#EXTINF:-1, Cassino
+http://thor.lhmtv.gq/bonus/m7Ko76
+#EXTINF:-1, A Promessa
+http://thor.lhmtv.gq/bonus/Z5hepY
+#EXTINF:-1, O Zoologico de Varsovia
+http://thor.lhmtv.gq/bonus/yjCvCm
+#EXTINF:-1, Um Laco de Amor
+http://thor.lhmtv.gq/bonus/HJdd2p
+#EXTINF:-1, Um Lobo em Pele de Cordeiro
+http://thor.lhmtv.gq/bonus/CZ953H
+#EXTINF:-1, King
+http://thor.lhmtv.gq/bonus/VU4wpT
+#EXTINF:-1, Tudo e Todas as Coisas
+http://thor.lhmtv.gq/bonus/Hoq7Ui
+#EXTINF:-1, Sonhos Lucidos
+http://thor.lhmtv.gq/bonus/mkewxA
+#EXTINF:-1, A Pequena Sereia A Historia de Ariel
+http://thor.lhmtv.gq/bonus/Lbwg6L
+#EXTINF:-1, E o Vento Levou
+http://thor.lhmtv.gq/bonus/E92DgN
+#EXTINF:-1, A Criada
+http://thor.lhmtv.gq/bonus/kprXhn
+#EXTINF:-1, Duelo de Cordas
+http://thor.lhmtv.gq/bonus/ekjUfC
+#EXTINF:-1, Fallen O Filme
+http://thor.lhmtv.gq/bonus/w5r6oE
+#EXTINF:-1, Cut Bank Assassinato por Encomenda
+http://thor.lhmtv.gq/bonus/g9YhKD
+#EXTINF:-1, Ta Dando Onda 2
+http://thor.lhmtv.gq/bonus/VFBVPs
+#EXTINF:-1, Fora do Rumo
+http://thor.lhmtv.gq/bonus/DgCZnX
+#EXTINF:-1, Recovery
+http://thor.lhmtv.gq/bonus/vEPBEL
+#EXTINF:-1, As Travessuras de Uma Sereia
+http://thor.lhmtv.gq/bonus/mjk3gL
+#EXTINF:-1, The Wizard of Lies
+http://thor.lhmtv.gq/bonus/6QQ3ap
+#EXTINF:-1, Sonho lucido
+http://thor.lhmtv.gq/bonus/A6zgxi
+#EXTINF:-1, U.S. Marshals Os Federais
+http://thor.lhmtv.gq/bonus/NRHnYo
+#EXTINF:-1, Gamer
+http://thor.lhmtv.gq/bonus/iMUnmQ
+#EXTINF:-1, O Castelo Animado
+http://thor.lhmtv.gq/bonus/K4rveh
+#EXTINF:-1, Interestelar
+http://thor.lhmtv.gq/bonus/qKEvMs
+#EXTINF:-1, A Noite e Delas
+http://thor.lhmtv.gq/bonus/aNxvcF
+#EXTINF:-1, Sem Controle
+http://thor.lhmtv.gq/bonus/1gH2HM
+#EXTINF:-1, O Grande Roubo
+http://thor.lhmtv.gq/bonus/PPzDQW
+#EXTINF:-1, Coracao de Dragao 4: A Batalha Pelo Coracao de Fogo
+http://thor.lhmtv.gq/bonus/H4unVn
+#EXTINF:-1, Coracao de Dragao 3 A Maldicao do Feiticeiro
+http://thor.lhmtv.gq/bonus/qSp9ry
+#EXTINF:-1, Invocacao do Mal 2
+http://thor.lhmtv.gq/bonus/AJZbmg
+#EXTINF:-1, Internet: O Filme
+http://thor.lhmtv.gq/bonus/y3Lynj
+#EXTINF:-1, Apostando Tudo
+http://thor.lhmtv.gq/bonus/KrL86i
+#EXTINF:-1, Esquadrao de Elite
+http://thor.lhmtv.gq/bonus/BS9F6i
+#EXTINF:-1, Santo Antonio - Guerreiro de Deus 2006
+https://cdn2.oldflix.com.br/hls/movies/antonioguerreirodedeus/dublado_Oldflix_LF_MAR_16x9_480p/dublado_Oldflix_LF_MAR_16x9_480p.m3u8
+#EXTINF:-1, Amizade Colorida 2011
+https://ia802506.us.archive.org/3/items/Filmes_201406/Amizade%20Colorida.MP4
+#EXTINF:-1, Te Pego na Saida 2017
+https://ia802803.us.archive.org/23/items/A.espia.que.sabia.de.menos.sem.cortes.2015.DUB.BaixarerieMP4.com/Te.Pego.na.Sa%C3%ADda.2017.MP4.DUB.BaixarSeriesMP4.Com.mp4
+#EXTINF:-1, Dub Estrela de Fogo 1960
+https://cdn2.oldflix.com.br/hls/movies/estrela-de-fogo/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, Renegado Impiedoso 1972 Leg
+https://cdn2.oldflix.com.br/hls/movies/renegadoimpiedoso/legendado.m3u8
+#EXTINF:-1, Desejo de Matar 1974
+https://cdn2.oldflix.com.br/hls/movies/desejo-de-matar/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, Desejo de Matar 4- OperaÃ§Ã£o Crackdown 1987
+https://cdn2.oldflix.com.br/hls/movies/desejo-de-matar-4-operacao-crackdown/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, CanÃ§Ãµes e ConfusÃµes 1967
+https://cdn2.oldflix.com.br/hls/movies/cancoes-e-confusoes/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, Colors - As Cores da ViolÃªncia 1988
+https://cdn2.oldflix.com.br/hls/movies/colors-as-cores-da-violencia/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, APEX 1994
+https://cdn2.oldflix.com.br/hls/movies/apex/dublado_Oldflix_LF_MAR_4x3_480p/dublado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:-1, A CaÃ§ada 1996
+https://cdn2.oldflix.com.br/hls/movies/a-cacada/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, A Ilha do Dr. Moreau 1996
+https://cdn2.oldflix.com.br/hls/movies/a-ilha-do-dr-moreau/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, A MansÃ£o de Dracula 1943 Leg
+https://cdn2.oldflix.com.br/hls/movies/a-casa-de-dracula/playback_legendado/playback_legendado.m3u8
+#EXTINF:-1, Encontro Com a Morte 2006
+https://cdn2.oldflix.com.br/hls/movies/encontro-com-a-morte/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, A Honra do Poderoso Prizzi 1985 Leg
+https://cdn2.oldflix.com.br/hls/movies/a-honra-do-poderoso-prizzi-/playback_legendado/playback_legendado.m3u8
+#EXTINF:-1, Filhos do Vento 2004
+https://cdn2.oldflix.com.br/hls/movies/filhos-do-vento/playback_dublado/playback_dublado.m3u8
+#EXTINF:-1, A Lenda do Lobo do Mar 1975 Leg
+https://cdn2.oldflix.com.br/hls/movies/a-lenda-do-lobo-do-mar/playback_legendado/playback_legendado.m3u8
+#EXTINF:-1, O Despertar dos Mortos 1978 Leg
+https://cdn2.oldflix.com.br/hls/movies/o-despertar-dos-mortos/legendado.m3u8
+#EXTINF:-1, Apartamento 1303 2007
+https://cdn2.oldflix.com.br/hls/movies/apartamento1303/dublado_Oldflix_LF_MAR_16x9_480p/dublado_Oldflix_LF_MAR_16x9_480p.m3u8
+#EXTINF:-1, Amor em Dobro 1999
+https://cdn2.oldflix.com.br/hls/movies/amoremdobro/dublado_Oldflix_LF_MAR_4x3_480p/dublado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:-1, Alvo MÃ³vel 1997
+https://cdn2.oldflix.com.br/hls/movies/alvomovel/dublado_Oldflix_LF_MAR_4x3_480p/dublado_Oldflix_LF_MAR_4x3_480p.m3u8
+#EXTINF:-1,Wild Card - Jogo Duro
+https://lh3.googleusercontent.com/tOHHOKk19yMSR1O8-kE7nIVHwMzR9pYxr5uXut4wwwbR9mu5ptZdoqiZbnEuHzTZx41HXcjamQ=m22
+#EXTINF:-1,bandnews fm rj
+http://evpp.mm.uol.com.br/band/bandnewsfm_rj/chunklist_w1146114708.m3u8
+#EXTINF:-1,bandnews fm sp
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w1458629316.m3u8
+#EXTINF:-1,Vizinhos 2 2016 720p Legendado
+https://lh3.googleusercontent.com/-VfluLbnBKhMspcThuBoSsoQDj9Ha2Vnb4uaInYeNkhKSTNLymX49wnowISh9RTXTYjMhu8n=m22
+#EXTINF:-1,Approaching The Unknown 2016 Bluray 720p Legendado
+https://lh3.googleusercontent.com/7kW6BoEIfRlrXx7iGb_WE7CrGvL08l-APMtRg8DHk3Ju9A13e5mvWFUB1UWEmuV4AuWuukiH=m22
+#EXTINF:-1,Anger of The Dead 2015 Bluray 720p Legendado
+https://lh3.googleusercontent.com/-HMtlmUizy2LhV7m8GfmbzgVHCsmVodxJDuYefrQ_5VNrWwNKxJLCNtbFCwEtu7zN0ikGfrC=m22
+#EXTINF:-1,Voando Alto 1080p (2016) Dual Áudio BluRay 5.1
+https://lh3.googleusercontent.com/lMdrSvt_BndWcj8g6wAnWAV8Eg0sNz1hsV6nEcJO1jfJZHGXkgEt7qon3pUtizmDaS31jtkA=m22
+#EXTINF:-1, César!.2016.720p.BluRay.5.1.x264.DUAL
+https://lh3.googleusercontent.com/z4nqKiulQA9qjx1vv4K-ZrgTTTRhNyBe8CQyLgjTKYTkqjI1UzdYm0tkeO9KPNFfoVVzUBqX=m22
+#EXTINF:-1,A Beira Mar 2016 Bluray 720p Dublado
+https://lh3.googleusercontent.com/0GvVqHFaEO5OwIFTH53bJ7Askt_Lx0KwR3BXWVD79BS-7bHQwEy42Smpv9LxkTkL4PY975NZ=m22
+#EXTINF:-1,Destino Especial.2016.720p.BluRay.5.1.x264.DUAL-
+https://lh3.googleusercontent.com/8xSKw3orU9Q4X_l3UbEvfby9xLiCG-tHW0BLJMSPFYqv3qkc9LJF8j-b4KbynVuWQGqIZQFt=m22
+#EXTINF:-1,Hardcore.Henry.2016.720p.HDRip.AC3.x264.
+https://lh3.googleusercontent.com/NTDytyoByH1JqCqK57eMPSE-tQM4xTxr6L3YyVpvfR_69gHr4PD9YQNFrY2pAhhYdT7jcUj5=m22
+#EXTINF:-1,Depois.de.Tudo.1080p.WEBDL.5.1.x264.DUAL
+https://lh3.googleusercontent.com/XFfEi-UtaGbUmD-Jl0oxwqmMiV4fOyNYli-9teABpLVYo2p__aDwWQU7mOh-F09WHbrGBJCz=m22
+#EXTINF:-1,Patch Adams O Amor é Contagioso.1998.720p.BluRay.x264.
+https://lh3.googleusercontent.com/DetW_gkEwMRvxU-0ZJyCjBEToZzGyTrVpaYLwvu_RDTy9m5iwzcuyUsE808RWJjaVAcbzxH_=m22
+#EXTINF:-1,Harry.Potter.e.o.Calice.de.Fogo.2005.1080p
+https://lh3.googleusercontent.com/IyKC5-eicQaIEKOYZOrz6wxxkvGKHwAtTe-uuzRTXL0ripuanHWttnWnxol9PcnXyqDeQrg-=m22
+#EXTINF:-1,Harry.Potter.e.o.Prisioneiro.de.Azkaban.2004.1080p
+https://lh3.googleusercontent.com/RfN-jdRYBmCDJIcwza8cppCUwyYOeKHtyMcDyrxYXwSy1MaOgjYmhkyq0ejpXxErjdC_K7Zp=m22
+#EXTINF:-1,Mogli - O Menino Lobo (1967) 720p
+https://lh3.googleusercontent.com/8SGxnIks_yxCJCb5rwTRjkW5cFQgpWvoGsnAKPtFZR-DHxPMyKtd0q0VaemR6Ezid13MTISF=m22
+#EXTINF:-1,john_carter_entre_dois_mundos
+https://lh3.googleusercontent.com/9tza4VOGRUU_ci03KHL26W9-5dEze1Ex1iZaCg_KaoN0_3gUwm3LCP_1aYB6FUJcpxV1lQjk=m22
+#EXTINF:-1,Interestelar
+https://lh3.googleusercontent.com/NloiK_YE_FqLRYIcZbOY_h5YIxn_H5azNHsFSmOxEIpARPHhDS6IfBCUhtRZQL34FezPAlri=m18
+#EXTINF:-1,O Último Sacramento
+https://lh3.googleusercontent.com/UGgqs0BOEeUSVXr1_wICIDhv9Nbau7AldrffjjwiHx_goVeUoqsIr8Y31VCqa03oaEw=m18
+#EXTINF:-1,Meu Bebê é o Diabo
+https://lh3.googleusercontent.com/zJWfSt6vRDd0UQeuZPdYV5mnj3EHR_GbJAw64QRNXi8tAiRrGOpl1cRGI84nT3TtHEk=m18
+#EXTINF:-1,Boa Sorte
+https://lh3.googleusercontent.com/IfESROafKmdIwS26nrmI0uI5HI6uCMh16BOauBfrUZqtzF1I6rKUCsVLPtjWncBnkME=m18
+#EXTINF:-1,Na Quebrada
+https://lh3.googleusercontent.com/jFjqSlPqPRYp61N9lf_0EsCbk_kXdfk6NBvs7hOUtA7q6hQR-T7g8wZbPtSH7YjCn7c=m18
+#EXTINF:-1,Os Caras de Pau em O Misterioso Roubo do Anel
+https://lh3.googleusercontent.com/K0ULXT-MX9gyMiLJ_1Cee-iwejRt-Vc6TpIBRWiyP5A4jGX87hoTXA5Q5ay3LKuAe_o=m18
+#EXTINF:-1,O Vendedor de Passados
+https://lh3.googleusercontent.com/BkPZerp-IgMDGquq4vAACYdze8ASJ2AlTYJFfvXtzivp-TzjOVofr3AB_JNLIty7Lzqd=m22
+#EXTINF:-1,Loucas pra Casar
+https://lh3.googleusercontent.com/JC78QldoLDN_va38BasMoSCQoWFbSRgPRiYfCffHh_YULnYeJQnFegXVcdifvBLlOY0=m18
+#EXTINF:-1,Alemão
+https://lh3.googleusercontent.com/DPsioO4xg0DZTtJe7Uu2aT6EOKhbgkzv4DxuVBSDeTEPZcbiPMiw8nsiXw_2CQSX5wk=m18
+#EXTINF:-1,O Lobo Atrás da Porta
+https://lh3.googleusercontent.com/13KHPhjpo_BfFBynx37TgjwIdW80brlxEWij2-NrfL_8exVzU99QixlDUlkbdr7vtus=m18
+#EXTINF:-1,Getúlio
+https://lh3.googleusercontent.com/jwBDLklOWqsMDIUzYuMaTOLg46k8lzHOa54pzAfEcAyQRwwAexeoeHKLhbbxJTEyTcE=m18
+#EXTINF:-1,Irmã Dulce
+https://lh3.googleusercontent.com/rt0ThyMX4Qc478DB8o6k8d2bgP4wEBkZL9_NzYne0vJDzBV57kXjQxcS8Dh7_5jJiXM=m18
+#EXTINF:-1,Piratas Pirados!
+https://lh3.googleusercontent.com/WWOs9slW-G_mS9WJ-3A-K0WxzxmlTcUVwBB58h4UWrse0MLWT1ZRbWfgAIgwAJ7mxgg=m22
+#EXTINF:-1,Wild Card - Jogo Duro - Dublado - Drama
+https://lh3.googleusercontent.com/tOHHOKk19yMSR1O8-kE7nIVHwMzR9pYxr5uXut4wwwbR9mu5ptZdoqiZbnEuHzTZx41HXcjamQ=m22
+#EXTINF:-1,Raça (Race) - Legendado
+https://lh3.googleusercontent.com/GZTscfvesKyDwHQUJlgwLBFcFbfG8FDN16ly_nWm4S57kiz1l-Sybwo1sgF_iGZiacwdjbyrXg=m22
+#EXTINF:-1,O Senhor das Moscas - Legendado
+https://archive.org/download/OSenhorDasMoscasLegendadoCompleto/O%20Senhor%20das%20Moscas%20%20%20Legendado%20Completo.mp4
+#EXTINF:-1,Life Story - Legendado 720p
+https://archive.org/download/BBC.Horizon.Life.Story.1987/BBC.Horizon.Life.Story.1987.mp4
+#EXTINF:-1,Anger of the Dead - Legendado
+https://lh3.googleusercontent.com/nroUgjp1AvZHqjWgt8TBsGz-gB10dbDVk3X7N0bUOMrJjze0wBjRARjPkBGKCQbTVVykfJrhFA=m22
+#EXTINF:-1,Bloody Cartoons Charges Sangrentas - Legendado - 2006 480p
+https://archive.org/download/Bloody.Cartoons-Legendado/Bloody%20Cartoons%20-%20Legendado.mp4
+#EXTINF:-1,Ray Kurzweil - Legendado 480p
+https://archive.org/download/RayKurzweil-Legendado/RayKurzweil-GloboNewsCinciaETecnologia.mp4
+#EXTINF:-1,Masters of Money: Hayek - Legendado
+https://archive.org/download/MastersOfMoney-Legendado/Hayek%20-%20Documentario.mp4
+#EXTINF:-1,Masters of Money: Keynes - Legendado
+https://archive.org/download/MastersOfMoney-Legendado/Keynes%20-%20Documentario.mp4
+#EXTINF:-1,Masters of Money: Marx - Legendado
+https://archive.org/download/MastersOfMoney-Legendado/Marx%20-%20Documentario.mp4
+#EXTINF:-1,The naked truth - Legendado
+https://archive.org/download/Mcrost01-TheNakedTruthLegendadoPTBR166/Mcrost01-TheNakedTruthLegendadoPTBR166_512kb.mp4
+#EXTINF:-1,Real alien contact - Legendado
+https://archive.org/download/Mcrost01-RealAlienContactLegendadoPTBR801/Mcrost01-RealAlienContactLegendadoPTBR801_512kb.mp4
